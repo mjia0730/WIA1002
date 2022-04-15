@@ -1,0 +1,19 @@
+Question1
+a. Instance Variables
+Dispenser 	- number of items
+		- cost of item
+Cash Register 	- amount of cash paid
+		- amout of change
+Candy Machine	- product name
+		- status of product
+
+b. methods/operations
+Dispenser	- release item
+Cash Register	- calculate change
+		- calculate total cost
+		- accept cash
+		- return change
+Candy Machine 	- set product name
+		- update number of products
+		- set cost of product
+		- check availability
